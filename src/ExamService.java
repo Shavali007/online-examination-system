@@ -1,4 +1,4 @@
-﻿public class ExamService {
+public class ExamService {
 
     public boolean isPassed(int marks) {
         return marks >= 40;
