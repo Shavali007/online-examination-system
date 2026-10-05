@@ -1,0 +1,3 @@
+﻿Question Count: 20
+Exam Duration: 60 minutes
+Passing Marks: 40
