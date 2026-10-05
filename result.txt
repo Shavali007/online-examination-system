@@ -1,1 +1,1 @@
-﻿PASS MARKS = 40
+﻿PASS MARKS = 90
