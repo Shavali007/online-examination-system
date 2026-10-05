@@ -1,7 +1,7 @@
 ﻿public class ExamService {
 
     public boolean isPassed(int marks) {
-        return marks >= 50;
+        return marks >= 40;
     }
 
     public int calculateScore(int correctAnswers) {
