@@ -9,4 +9,7 @@ public class ExamService {
 public boolean isValidExam(int totalMarks) {
     return totalMarks > 0;
 }
+public int calculateResult(int obtainedMarks) {
+    return obtainedMarks;
+}
 }
