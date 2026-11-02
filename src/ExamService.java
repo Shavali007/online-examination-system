@@ -6,4 +6,7 @@ public class ExamService {
     return username.equals("admin") &&
            password.equals("1234");
 }
+public boolean isValidExam(int totalMarks) {
+    return totalMarks > 0;
+}
 }
